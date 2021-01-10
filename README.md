@@ -12,7 +12,7 @@ gradle:
             }
 
             dependencies {
-                    implementation 'com.github.Sk-singla:My-Test-Liberary:Tag'
+                    implementation 'com.github.Sk-singla:My-Test-Liberary:1.0'
             }
 
 maven:
@@ -24,9 +24,9 @@ maven:
               </repository>
             </repositories>
 
-            <dependency>
-                <groupId>com.github.Sk-singla</groupId>
-                <artifactId>My-Test-Liberary</artifactId>
-                <version>Tag</version>
-            </dependency>
+	<dependency>
+	    <groupId>com.github.Sk-singla</groupId>
+	    <artifactId>My-Test-Liberary</artifactId>
+	    <version>1.0</version>
+	</dependency>
 
