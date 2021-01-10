@@ -1,5 +1,5 @@
-# My-Test-Liberary
-This is Test Liberary
+# My-Test-Library
+This is Test Library
 
 
 gradle:
